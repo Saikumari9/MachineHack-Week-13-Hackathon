@@ -1,4 +1,3 @@
-# MachineHack-Week-13-Hackathon
 
 # Audio Samples Classification - MachineHack Week 13 Hackathon
 # Overview
@@ -13,9 +12,13 @@ Test.csv: Contains audio files for which predictions will be made.
 Submission.csv: Format for submitting predictions with the audio file names and their predicted chord classifications.
 # Tools and Libraries Used
 Python
+
 Librosa: For audio feature extraction such as MFCCs (Mel-frequency cepstral coefficients).
+
 Scikit-learn: For building the classification models.
+
 Matplotlib: For visualizing audio features and model performance.
+
 TensorFlow/Keras: For deep learning models (CNNs/RNNs) for better classification accuracy.
 
 # Train the model:
