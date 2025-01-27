@@ -8,8 +8,11 @@ Given a collection of audio samples in the form of .wav files, the task is to cl
 
 # Dataset
 Train.csv: Contains the mapping between the audio files and their corresponding chord classification (major/minor).
+
 Test.csv: Contains audio files for which predictions will be made.
+
 Submission.csv: Format for submitting predictions with the audio file names and their predicted chord classifications.
+
 # Tools and Libraries Used
 Python
 
